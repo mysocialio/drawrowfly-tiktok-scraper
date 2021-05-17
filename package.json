@@ -1,6 +1,6 @@
 {
     "name": "tiktok-scraper",
-    "version": "1.4.25",
+    "version": "1.4.26",
     "description": "TikTok Scraper & Downloader. Scrape information from User, Trending and HashTag pages and download video posts",
     "main": "./build/index.js",
     "types": "./build/index.d.ts",
@@ -14,6 +14,7 @@
         "archiver": "^3.1.1",
         "async": "^3.1.0",
         "bluebird": "^3.7.1",
+        "canvas": "^2.8.0",
         "jsdom": "^16.5.3",
         "json2csv": "4.5.1",
         "ora": "^4.0.2",
